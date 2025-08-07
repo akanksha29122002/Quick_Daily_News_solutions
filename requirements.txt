@@ -1,0 +1,8 @@
+aiohttp
+asyncio
+nltk
+scikit-learn
+networkx
+numpy
+bs4
+firebase-admin
