@@ -2,7 +2,7 @@
 
 News Summarizer is an AI-powered platform designed to deliver concise, real-time news summaries, similar to Inshorts. In today's fast-paced world, keeping up with the news can be overwhelming. Unlike social media platforms where news is often mixed with distractions and unreliable sources, News Summarizer ensures you get only the essential news updates—quickly and efficiently.
 
-## Features
+## Features i have done 
 
 - **Automated News Collection**: Our system fetches news directly from BBC News every few minutes.
 - **AI-Powered Summarization**: Using advanced Natural Language Processing (NLP), we extract key insights and present short, easy-to-read summaries.
